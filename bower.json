@@ -1,0 +1,9 @@
+{
+  "name": "fukukaze",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/xytis/fukukaze",
+  "dependencies": {
+    "d3": "~3.5.5"
+  }
+}

@@ -27,7 +27,11 @@
     "zabbix": "xytis/zabbix.js"
   },
   "devDependencies": {
+    "bower": "^1.4.1",
     "chai": "^2.3.0",
+    "gulp-minify-css": "^1.1.0",
+    "gulp-uglify": "^1.2.0",
+    "gulp-usemin": "^0.3.11",
     "istanbul": "^0.3.13",
     "mocha": "^2.2.4",
     "sinon": "^1.14.1"
